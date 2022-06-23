@@ -3,11 +3,11 @@
 
 ### Social. 
 
-[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true)](https://discord.gg/ZhUujTPPpq)
-[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true)](https://www.facebook.com/StayCuteTeam/)
-[![Instargram](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true)](https://www.instagram.com/v_cistus/)
-[![Steam](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true)](https://steamcommunity.com/id/cistusgame)
-[![Youtube](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true)](https://www.youtube.com/channel/UCdkQT9t-vio9KmPOdti5ChA)
+[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true =40x40)](https://discord.gg/ZhUujTPPpq)
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true =40x40)](https://www.facebook.com/StayCuteTeam/)
+[![Instargram](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true =40x40)](https://www.instagram.com/v_cistus/)
+[![Steam](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true =40x40)](https://steamcommunity.com/id/cistusgame)
+[![Youtube](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true =40x40)](https://www.youtube.com/channel/UCdkQT9t-vio9KmPOdti5ChA)
 
 ### Developing. 
 
