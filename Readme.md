@@ -3,17 +3,17 @@
 
 ### Social. 
 
-[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true =40x40)](https://discord.gg/ZhUujTPPpq)
-[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true =40x40)](https://www.facebook.com/StayCuteTeam/)
-[![Instargram](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true =40x40)](https://www.instagram.com/v_cistus/)
-[![Steam](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true =40x40)](https://steamcommunity.com/id/cistusgame)
-[![Youtube](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true =40x40)](https://www.youtube.com/channel/UCdkQT9t-vio9KmPOdti5ChA)
+[<img alt="Discord" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true" height="100px" />](https://discord.gg/ZhUujTPPpq)
+[<img alt="Facebook" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="100px" />](https://www.facebook.com/StayCuteTeam/)
+[<img alt="Instargram" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" height="100px" />](https://www.instagram.com/v_cistus/)
+[<img alt="Steam" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true" height="100px" />](https://steamcommunity.com/id/cistusgame)
+[<img alt="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true)" height="100px" />](https://www.youtube.com/channel/UCdkQT9t-vio9KmPOdti5ChA)
 
 ### Developing. 
 
-- Backend
-- Discord Bots
-- 
+- Back-End
+- Discord-Chat-Bot
+- Desktop App
 
 ### Github Status. 
 
