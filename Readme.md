@@ -7,7 +7,7 @@
 [<img alt="Facebook" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="100px" />](https://www.facebook.com/StayCuteTeam/)
 [<img alt="Instargram" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" height="100px" />](https://www.instagram.com/v_cistus/)
 [<img alt="Steam" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true" height="100px" />](https://steamcommunity.com/id/cistusgame)
-[<img alt="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true)" height="100px" />](https://www.youtube.com/channel/UCdkQT9t-vio9KmPOdti5ChA)
+[<img alt="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true)" height="100px" />](https://www.youtube.com/@cistus)
 
 ### Developing. 
 
