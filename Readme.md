@@ -8,10 +8,10 @@
 
 ## Operating Systems
   
-[![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://node.js.org/)
-[![Kali Linux Badge](http://img.shields.io/badge/-Kali_Linux-black?style=flat-square&logo=kalilinux)](https://node.js.org/)
-[![Mac Badge](http://img.shields.io/badge/-Mac-black?style=flat-square&logo=macos)](https://node.js.org/)
-[![Windows Badge](http://img.shields.io/badge/-Windows-black?style=flat-square&logo=windowsxp)](https://node.js.org/)
+[![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.redhat.com/en/topics/linux/what-is-linux)
+[![Kali Linux Badge](http://img.shields.io/badge/-Kali_Linux-black?style=flat-square&logo=kalilinux)](https://www.kali.org/get-kali/#kali-platforms)
+[![Mac Badge](http://img.shields.io/badge/-Mac-black?style=flat-square&logo=macos)](https://apple.com)
+[![Windows Badge](http://img.shields.io/badge/-Windows-black?style=flat-square&logo=windowsxp)](https://www.microsoft.com/windows/?r=1)
 
 ## Languages and Tools  
 
